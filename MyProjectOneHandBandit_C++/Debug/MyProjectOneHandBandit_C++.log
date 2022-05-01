@@ -1,0 +1,5 @@
+﻿  MyProjectOneHandBandit_C++.cpp
+C:\Users\aleks\source\repos\MyProjectOneHandBandit_C++\MyProjectOneHandBandit_C++\MyProjectOneHandBandit_C++.cpp(16,16): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\aleks\source\repos\MyProjectOneHandBandit_C++\MyProjectOneHandBandit_C++\MyProjectOneHandBandit_C++.cpp(16,19): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\aleks\source\repos\MyProjectOneHandBandit_C++\MyProjectOneHandBandit_C++\MyProjectOneHandBandit_C++.cpp(1126,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MyProjectOneHandBandit_C++.vcxproj -> C:\Users\aleks\source\repos\MyProjectOneHandBandit_C++\Debug\MyProjectOneHandBandit_C++.exe
